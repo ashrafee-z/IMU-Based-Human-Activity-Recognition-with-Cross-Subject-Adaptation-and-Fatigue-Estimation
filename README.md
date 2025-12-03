@@ -1,0 +1,2 @@
+# IMU-Based-Human-Activity-Recognition-with-Cross-Subject-Adaptation-and-Fatigue-Estimation
+This repository contains the implementation and analysis for an extended Human Activity Recognition (HAR) framework using IMU data. The project explores cross-subject domain adaptation, early activity recognition, fatigue estimation, sensor-failure robustness and explainability using traditional ML and deep learning models.
